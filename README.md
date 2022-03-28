@@ -18,7 +18,7 @@
 - :school: I graduated from Faculty of Internet Systems in Fatene at 1st in the class
 - :technologist: I love using Software as a solution for every `Problem`
 - :student: I’m currently learning: `DevOps`, `IOT`, `IA`, `Investment`.
-- :technologist: I’m currently work for: [Warren Brasil](https://warren.com.br/?utm_source=google&utm_medium=paid&utm_campaign=ppc-warren_google-ads_google_search_institucional_conversao_key&utm_content=ppc-warren_google-ads_google_search_institucional_conversao_key_1-2-3-4-5-6-7_text-ad_warren_a&gclid=CjwKCAjwuYWSBhByEiwAKd_n_lCVywQjGJ19zzEaqvDmu-Xe3DSd0UFbsqwi6-mOdS-o3Tzi6jB1GxoCfEoQAvD_BwE).
+- :thinking: I’m currently work for: [Warren Brasil](https://warren.com.br/?utm_source=google&utm_medium=paid&utm_campaign=ppc-warren_google-ads_google_search_institucional_conversao_key&utm_content=ppc-warren_google-ads_google_search_institucional_conversao_key_1-2-3-4-5-6-7_text-ad_warren_a&gclid=CjwKCAjwuYWSBhByEiwAKd_n_lCVywQjGJ19zzEaqvDmu-Xe3DSd0UFbsqwi6-mOdS-o3Tzi6jB1GxoCfEoQAvD_BwE).
 - :nerd_face: Always `learning new things`
 
 <br>
@@ -152,4 +152,4 @@
 -----
 Credits: [ismaelalvesgit](https://github.com/ismaelalvesgit)
 
-Last Edited on: 10/02/2022
+Last Edited on: 28/03/2022
